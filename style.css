@@ -1,0 +1,78 @@
+
+.container{
+    margin-bottom: 100px;
+    
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+.btn-primary{
+    color: white;
+    background-color:#21B573;
+    border-radius: 33px;
+    
+}
+
+.navbar-brand img{
+    width:30%;
+
+}
+.col-md-6 img{
+    width: 100%;
+
+}
+.paddng{
+    padding: 0 90px 0 90px;
+    
+} 
+.red-text{
+    color: #FD511A;
+    font-size: 16px;
+    font-weight: 400;
+}
+.head-text{
+    font-weight: 700;
+    font-size: 48px;
+
+
+}
+
+span{
+    color: #21B573;
+}
+.para-text{
+    color: #6C6B6B;
+    font-size: 16;
+    font-weight: 400;
+
+}
+
+.col-md-3 img{
+    width: 25%;
+
+}
+.shadow{
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.width-box{
+    background-color:#F8FFFB;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+.width-box h2{
+    color: #413960;
+}
+.margin-t{
+    margin-top: 25px;
+}
+.card-title{
+    color: #413960;
+
+}
+.card-radious{
+    border-radius: 10px;
+    padding: 20px;
+}
