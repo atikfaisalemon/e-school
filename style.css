@@ -11,6 +11,14 @@
     background-color:#21B573;
     border-radius: 33px;
     
+    
+}
+.nav-b{
+    color: white;
+    background-color:#21B573;
+    border-radius: 33px;
+    width: 100px;
+
 }
 
 .navbar-brand img{
@@ -55,6 +63,9 @@ span{
     box-shadow: 5px 5px 10px lightgray;
     
 }
+.radious-cart{
+   border-radius: 10px;
+}
 .width-box{
     background-color:#F8FFFB;
     width: 300px;
@@ -75,4 +86,33 @@ span{
 .card-radious{
     border-radius: 10px;
     padding: 20px;
+}
+.online-courses{
+    margin-bottom: 100px;
+    
+}
+.man img{
+    width: 20%;
+    margin-right: 20px;
+}
+.man{
+    padding-left: 300px;
+    padding-right: 300px;
+    
+}
+.testimonial{
+    margin-bottom: 100px;
+}
+.footer{
+    color: white;
+    background-color: #312d41;
+    height: 400px;
+}
+li{
+    list-style-type: none;
+    font-size: 18px;
+}
+.margin-foot{
+    margin-top: 100px;
+
 }
